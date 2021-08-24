@@ -1,12 +1,11 @@
 # ASSIGNMENT-1
 #I used JGrasp for this assignment and tested it in ubuntu through the virtual code. The structure of the code supports both JGrasp and Ubuntu. In JGrasp you have to comment out some part of code, while in Ubuntu you can use it straight forward.
-
-
-
-
-
-
-
+#
+#
+#
+#
+###
+# QUESTION
 Parallel programming with ForkJoin framework
 The size of the filter determines the number of neighbours considered for the median. In this
 assignment, you will consider only one-dimensional data sets and filters of odd size, ranging
